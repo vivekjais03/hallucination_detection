@@ -1,0 +1,9 @@
+streamlit
+torch
+torch-geometric
+plotly
+networkx
+pandas
+numpy
+wikipedia
+sentence-transformers
