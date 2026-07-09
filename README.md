@@ -1,4 +1,4 @@
-# 🧠 Enhanced LLM Hallucination Detection System
+# Enhanced LLM Hallucination Detection System
 
 A comprehensive, production-ready system for detecting hallucinations in Large Language Model outputs using advanced Graph Neural Networks, ensemble methods, and multi-source evidence validation.
 
